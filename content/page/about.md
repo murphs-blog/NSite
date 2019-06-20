@@ -5,6 +5,8 @@ author = "My Name"
 description = "Things about me."
 +++
 
-Rationally cynical and in pursuit of civility, I am an argumentative Indian who rants about everything under the sun.
+Hi, I am Prritam! Yes, with a double 'r'!
 
-My real name? You don't need to know that!
+I am a Digital Marketer by profession, Electronics & Communication Engineer by degree (also, have a Masters in Journalism & Mass Communication), wannabe writer and artist, and self-proclaimed ‘Patron Saint of Atheists & Other Nonconformists’.
+
+Gosh! Seems like I am so confused!
