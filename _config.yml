@@ -2,7 +2,7 @@
 title: New Blog
 timezone: UTC
 collections:
-  post:
+  content-post:
     title: Posts
     output: true
   posts:
