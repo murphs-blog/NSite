@@ -10,4 +10,6 @@ tags:
 - Vhgfhjjnbhbbbbbnhhhhh
 ---
 
+![](/media/again.jpg)
+
 GhhhhhhhGhhhhhhhg
