@@ -1,9 +1,9 @@
 ---
-date: 2014-03-10
+title: Migrate to Hugo from Jekyll
+date: 2014-03-10 00:00:00 Z
 linktitle: Migrating from Jekyll
 menu: main
-prev: /tutorials/mathjax
-title: Migrate to Hugo from Jekyll
+prev: "/tutorials/mathjax"
 weight: 10
 ---
 

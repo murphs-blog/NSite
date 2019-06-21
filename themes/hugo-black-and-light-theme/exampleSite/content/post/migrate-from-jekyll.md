@@ -1,7 +1,7 @@
 ---
-date: 2014-03-10
-linktitle: Migrating from Jekyll
 title: Migrate to Hugo from Jekyll
+date: 2014-03-10 00:00:00 Z
+linktitle: Migrating from Jekyll
 ---
 
 ## Move static content to `static`

@@ -1,10 +1,9 @@
 ---
-author: "Michael Henderson"
-date: 2014-09-28
-linktitle: Creating a New Theme
 title: Creating a New Theme
+date: 2014-09-28 00:00:00 Z
+author: Michael Henderson
+linktitle: Creating a New Theme
 ---
-
 
 ## Introduction
 
