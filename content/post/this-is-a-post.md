@@ -2,7 +2,6 @@
 category = "Post"
 date = "2019-06-20T18:30:00+00:00"
 description = "bhsbxhsbxhbshbx"
-draft = true
 slug = "this-is-not-a-post"
 tags = []
 title = "This Is A Post"
