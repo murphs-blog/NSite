@@ -24,5 +24,6 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/i-am-pritam.md
 - content/post/tundorrriiiiii.md
 - content/post/this-is-a-post-1.md
