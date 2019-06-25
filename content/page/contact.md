@@ -7,8 +7,6 @@ title = "Contact"
 +++
 ## Contact
 
-Is it necessary?
-
-I am done with all these shit...
+I am kind of a socially awkward guy and I am absolutely comfortable with it...
 
 So, no contact information!
