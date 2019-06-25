@@ -1,16 +1,14 @@
 +++
-title = "Contact"
-date = 2015-04-03T02:13:50Z
 author = "Pritam G"
+date = "2015-04-03T02:13:50.000+00:00"
 description = "How to contact me."
-+++
+title = "Contact"
 
++++
 ## Contact
 
 Is it necessary?
 
-You are not going to like most of the content here. So, the only reason you would want to contact me is to abuse and threaten me. 
-
-And I am done with all these shit.
+I am done with all these shit...
 
 So, no contact information!
