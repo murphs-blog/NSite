@@ -44,6 +44,6 @@ I couldn’t become an artist, or a writer, a professional photographer, an engi
 
 And the amalgamation of all these things helped me become good at what I do now - marketing. I got three appraisals and a promotion in just two years. So, I believe I am doing good.
 
-There is, however, one problem. Sometimes, I miss the good old days - the kind of writings I used to write. _(‘Writings I used to write’ doesn’t sound OK but let’s just ignore it for now.)_ These days I barely get time to look around me for stories and even if I stumble upon one, I find it extremely difficult to _storify_ them.
+There is, however, one problem. Sometimes, I miss the good old days - the kind of writings I used to write. _(‘Writings I used to write’ doesn’t sound OK but let’s just ignore it for now.)_ These days I barely get time to look around me for stories and even if I stumble upon one, I find it extremely difficult to _storify_ .
 
 So, this blog is my superficial attempt at getting back to writing. I hope, against all hope, that I will feel obligated to write… Even if it’s illegible scribbles…
