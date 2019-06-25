@@ -14,7 +14,7 @@ Single ‘r’ is too mainstream.
 
 Also, ‘pritam.com’, with a single ‘r’, was already taken.
 
-Anyway, the world is not a fair place for honest people (and this is just one of the many rationally cynical beliefs I hold). That my namesake who is infamous for copying others’ musical tracks shows up in the search engine result page when you search for ‘Pritam’ is testimony to this. So, yeah. It’s Prritam - with a double ‘r’, to make ego-surfing easy!
+Anyway, the world is not a fair place for honest people (and this is just one of the many rationally cynical beliefs I hold). That my namesake, who is infamous for copying others’ musical tracks. shows up in the search engine result page when you search for ‘Pritam’ is testimony to this. So, yeah. It’s Prritam - with a double ‘r’, to make ego-surfing easy!
 
 I am a Content Marketer/Editor by profession, Electronics & Communication Engineer by degree (also, have a Masters in Journalism & Mass Communication), wannabe writer and artist, and self-proclaimed **_‘Patron Saint of Atheists & Other Nonconformists’_**.
 
