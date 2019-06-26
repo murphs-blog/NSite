@@ -24,4 +24,5 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/metro.md
 - content/post/hi-there.md
