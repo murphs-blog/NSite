@@ -8,6 +8,8 @@ template = "post"
 title = "Tit For Tat"
 
 +++
+![](/uploads/Tit-For-Tat.jpg)
+
 I usually do not bring in the religion of a person while referring to them in my stories. I don’t even use their names for people tend to make assumptions about one’s religion(and never the lack of it) from their names.
 
 But this story is an exception.
