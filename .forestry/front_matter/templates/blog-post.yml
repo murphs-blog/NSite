@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/an-unexpected-turn.md
 - content/post/tit-for-tat.md
 - content/post/metro.md
 - content/post/hi-there.md
