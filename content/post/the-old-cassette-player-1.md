@@ -1,6 +1,6 @@
 +++
 category = "Memoirs, Facebook Posts"
-date = "2016-10-29T02:30:00+00:00"
+date = "2016-10-27T02:30:00+00:00"
 description = "One of my earliest memories has a tape/cassette player that is lying, neglected, in one corner of our bedroom..."
 draft = true
 slug = "the-old-cassette-player"
