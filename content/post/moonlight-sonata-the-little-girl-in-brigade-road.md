@@ -2,7 +2,6 @@
 category = "Facebook Posts"
 date = "2017-10-21T02:30:00+00:00"
 description = "I had just come out of Blossom Book House at Brigade Road with a bagful of books when this little girl caught hold of me."
-draft = true
 slug = "moonlight-sonata-and-the-little-girl-in-brigade-road"
 tags = ["  "]
 template = "post"
