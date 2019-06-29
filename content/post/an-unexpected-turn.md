@@ -11,6 +11,7 @@ title = "An Unexpected Turn"
 "Why did she say yes to you? Was it because you made those stupid sketches or because you wrote love stories for her?" asked my uncle.
 
 And I couldn't help but walk down the memory lane.
+<!--more-->
 
 Back in 2010, when I had at last decided to woo Pallabi after trying to live without her for two long years, not knowing how to really get her attention (because I had never worked on it before, not that she was my first love, but I was too much of an egoist), I started making her sketches and writing cheesy love poems in Bengali for her.
 
