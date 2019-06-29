@@ -18,6 +18,8 @@ June 25, 2019: [**Metro**](https://prritam.com/2019/06/25/metro/)
 
 June 25, 2019: [**Hi There!**](https://prritam.com/2019/06/25/hi-there/)
 
+### October 2017
+
 ### October 2016
 
 October 29, 2016: [**The Old Cassette Player**](https://prritam.com/2016/10/29/the-old-cassette-player/)
