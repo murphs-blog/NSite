@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/i-don-t-want-to-grow-up.md
 - content/post/because-we-are-selfish.md
 - content/post/the-old-cassette-player.md
 - content/post/a-beautiful-woman.md
