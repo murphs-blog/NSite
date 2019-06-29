@@ -24,6 +24,8 @@ October 27, 2017: [**Because We Are Selfish**](https://prritam.com/2017/10/27/be
 
 October 25, 2017: [**I Don't Want To Grow Up!**](https://prritam.com/2017/10/25/i-don-t-want-to-grow-up/)
 
+October 21, 2017: [**Moonlight Sonata & The Little Girl In Brigade Road**](https://prritam.com/2017/10/21/moonlight-sonata-the-little-girl-in-brigade-road/)
+
 ### October 2016
 
 October 29, 2016: [**The Old Cassette Player**](https://prritam.com/2016/10/29/the-old-cassette-player/)
