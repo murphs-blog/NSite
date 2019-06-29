@@ -5,6 +5,8 @@ description = "Things about me."
 title = "About"
 
 +++
+<img src="![](http://pritamg.com/uploads/2019/6320cdaa90.png)" alt="Prritam"/>
+
 Hi, I am Pritam!
 
 I am a Content Marketer/Editor by profession, Electronics & Communication Engineer by degree (also, have a Masters in Journalism & Mass Communication), wannabe writer and artist, and self-proclaimed 'Patron Saint of Atheists & Other Nonconformists'.
