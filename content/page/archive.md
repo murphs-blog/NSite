@@ -20,6 +20,8 @@ June 25, 2019: [**Hi There!**](https://prritam.com/2019/06/25/hi-there/)
 
 ### October 2017
 
+October 27, 2017: [**Because We Are Selfish**](https://prritam.com/2017/10/27/because-we-are-selfish/)
+
 ### October 2016
 
 October 29, 2016: [**The Old Cassette Player**](https://prritam.com/2016/10/29/the-old-cassette-player/)
