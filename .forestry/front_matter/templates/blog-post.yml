@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/the-old-cassette-player-1.md
 - content/post/because-we-are-selfish.md
 - content/post/the-old-cassette-player.md
 - content/post/a-beautiful-woman.md
