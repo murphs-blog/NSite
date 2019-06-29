@@ -20,7 +20,7 @@ June 25, 2019: [**Hi There!**](https://prritam.com/2019/06/25/hi-there/)
 
 ### February 2018
 
-February 2, 2018: [**Insomnia**]()
+February 2, 2018: [**Insomnia**](https://prritam.com/2018/02/02/insomnia/)
 
 ### October 2017
 
