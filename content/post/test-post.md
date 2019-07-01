@@ -2,7 +2,6 @@
 category = "Test"
 date = "2019-07-30T23:30:00+00:00"
 description = "Testing"
-draft = true
 slug = "test-post"
 tags = [" "]
 template = "post"
