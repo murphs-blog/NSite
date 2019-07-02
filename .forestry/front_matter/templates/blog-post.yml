@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/bangalore.md
 - content/post/the-womanless-bar.md
 - content/post/a-not-at-all-obsessive-compulsive-love-story.md
 - content/post/insomnia.md
