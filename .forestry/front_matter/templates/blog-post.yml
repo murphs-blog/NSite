@@ -24,7 +24,6 @@ fields:
   name: tags
   label: tags
 pages:
-- content/post/the-inheritence-of-happiness.md
 - content/post/test-post.md
 - content/post/insomnia.md
 - content/post/moonlight-sonata-the-little-girl-in-brigade-road.md
