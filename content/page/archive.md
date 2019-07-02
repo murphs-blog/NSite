@@ -45,3 +45,7 @@ October 29, 2016: [**_The Old Cassette Player_**](https://prritam.com/2016/10/29
 ### April 2015
 
 April 16, 2015: [**_A Beautiful Woman_**](https://prritam.com/2015/04/16/a-beautiful-woman/)
+
+### July 2014
+
+July 2, 2014: [**_Bangalore_**](https://prritam.com/2014/07/02/bangalore/)
