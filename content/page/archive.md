@@ -18,6 +18,10 @@ June 25, 2019: [**_Metro_**](https://prritam.com/2019/06/25/metro/)
 
 June 25, 2019: [**_Hi There!_**](https://prritam.com/2019/06/25/hi-there/)
 
+### July 2018
+
+July 2, 2018: [**_A Not At All Obsessive Compulsive Love Story_**](https://prritam.com/2018/07/02/a-not-at-all-obsessive-compulsive-love-story/)
+
 ### February 2018
 
 February 2, 2018: [**_Insomnia_**](https://prritam.com/2018/02/02/insomnia/)
