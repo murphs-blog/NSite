@@ -34,6 +34,10 @@ October 25, 2017: [**_I Don't Want To Grow Up!_**](https://prritam.com/2017/10/2
 
 October 21, 2017: [**_Moonlight Sonata & The Little Girl In Brigade Road_**](https://prritam.com/2017/10/21/moonlight-sonata-the-little-girl-in-brigade-road/)
 
+### July 2017
+
+July 2, 2017: [**_The Womanless Bar_**](https://prritam.com/2017/07/02/the-womanless-bar/)
+
 ### October 2016
 
 October 29, 2016: [**_The Old Cassette Player_**](https://prritam.com/2016/10/29/the-old-cassette-player/)
