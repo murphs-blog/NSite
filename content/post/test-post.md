@@ -8,4 +8,4 @@ template = "post"
 title = "Test Post"
 
 +++
-Test Post
+Test Post Test Post
