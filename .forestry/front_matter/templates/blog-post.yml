@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/a-not-at-all-obsessive-compulsive-love-story.md
 - content/post/insomnia.md
 - content/post/moonlight-sonata-the-little-girl-in-brigade-road.md
 - content/post/i-don-t-want-to-grow-up.md
