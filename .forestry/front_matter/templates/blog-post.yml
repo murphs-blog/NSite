@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/tit-for-tat.md
 - content/post/bangalore.md
 - content/post/the-womanless-bar.md
 - content/post/a-not-at-all-obsessive-compulsive-love-story.md
@@ -33,7 +34,6 @@ pages:
 - content/post/because-we-are-selfish.md
 - content/post/the-old-cassette-player.md
 - content/post/a-beautiful-woman.md
-- content/post/tit-for-tat.md
 - content/post/metro.md
 - content/post/an-unexpected-turn.md
 - content/page/archive.md
