@@ -2,7 +2,6 @@
 category = "Facebook Post"
 date = "2018-06-23T02:30:00+00:00"
 description = "\"This is stupid and so are you...\"  😂😂😂"
-draft = true
 slug = "alexa-who-is-your-master"
 tags = [" "]
 template = "post"
