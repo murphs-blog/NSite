@@ -67,6 +67,12 @@ article.page h2.post-title {
     display: none;
 }
 
+img {
+  border: 3.8px solid #000033;    
+  border-radius: 50%;
+  padding: 5px;
+}
+
 form { 
   width: 350px ;
 }
