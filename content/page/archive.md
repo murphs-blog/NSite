@@ -22,6 +22,10 @@ June 25, 2019: [**_Hi There!_**](https://prritam.com/2019/06/25/hi-there/)
 
 July 2, 2018: [**_A Not At All Obsessive Compulsive Love Story_**](https://prritam.com/2018/07/02/a-not-at-all-obsessive-compulsive-love-story/)
 
+### June 2018
+
+June 23, 2018: [**_Alexa, Who Is Your Master?_**](https://prritam.com/2018/06/23/alexa-who-is-your-master/)
+
 ### February 2018
 
 February 2, 2018: [**_Insomnia_**](https://prritam.com/2018/02/02/insomnia/)
@@ -41,6 +45,10 @@ July 2, 2017: [**_The Womanless Bar_**](https://prritam.com/2017/07/02/the-woman
 ### October 2016
 
 October 29, 2016: [**_The Old Cassette Player_**](https://prritam.com/2016/10/29/the-old-cassette-player/)
+
+### July 2016
+
+July 4, 2016: [**_Enlightenment_**](https://prritam.com/2016/07/04/enlightenment/) 
 
 ### April 2015
 
