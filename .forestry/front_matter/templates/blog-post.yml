@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/page/archive.md
 - content/post/a-nonsense-love-story.md
 - content/post/a-dream-to-remember.md
 - content/post/enlightenment.md
@@ -40,5 +41,4 @@ pages:
 - content/post/a-beautiful-woman.md
 - content/post/metro.md
 - content/post/an-unexpected-turn.md
-- content/page/archive.md
 - content/post/hi-there.md

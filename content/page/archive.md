@@ -58,6 +58,10 @@ April 16, 2015: [**_A Beautiful Woman_**](https://prritam.com/2015/04/16/a-beaut
 
 December 20, 2014: [**_A Dream To Remember_**](https://prritam.com/2014/12/20/a-dream-to-remember/)
 
+### November 2014
+
+November 25, 2014: [**_A Nonsense Love Story_**](https://prritam.com/2014/11/25/a-nonsense-love-story/)
+
 ### July 2014
 
 July 2, 2014: [**_Bangalore_**](https://prritam.com/2014/07/02/bangalore/)
