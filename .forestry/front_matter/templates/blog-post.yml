@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/a-dream-to-remember.md
 - content/post/enlightenment.md
 - content/post/alexa-who-is-your-master.md
 - content/post/tit-for-tat.md
