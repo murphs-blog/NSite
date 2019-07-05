@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/the-curious-case-of-social-networks.md
 - content/post/they-don-t-teach-you-anything-worth-knowing.md
 - content/post/the-syllabus.md
 - content/post/madly-in-love.md
