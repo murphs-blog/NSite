@@ -64,4 +64,6 @@ November 25, 2014: [**_A Nonsense Love Story_**](https://prritam.com/2014/11/25/
 
 ### July 2014
 
+July 5, 2014: [**_Madhouse And The Angel In Stilettos_**](https://prritam.com/2014/07/05/madhouse-and-the-angel-in-stilettos/)
+
 July 2, 2014: [**_Bangalore_**](https://prritam.com/2014/07/02/bangalore/)
