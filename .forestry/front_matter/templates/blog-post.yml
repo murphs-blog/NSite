@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/the-syllabus.md
 - content/post/madly-in-love.md
 - content/post/madhouse-and-the-angel-in-stilettos.md
 - content/page/archive.md
