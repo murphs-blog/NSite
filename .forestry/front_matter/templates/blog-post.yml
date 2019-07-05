@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/madly-in-love.md
 - content/post/madhouse-and-the-angel-in-stilettos.md
 - content/page/archive.md
 - content/post/a-nonsense-love-story.md
