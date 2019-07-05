@@ -44,6 +44,10 @@ July 5, 2017: [**_The Syllabus_**](https://prritam.com/2017/07/05/the-syllabus/)
 
 July 2, 2017: [**_The Womanless Bar_**](https://prritam.com/2017/07/02/the-womanless-bar/)
 
+### December 2016
+
+December 28, 2016: [**_The Curious Case Of Social Networks_**](https://prritam.com/2016/12/28/the-curious-case-of-social-networks/)
+
 ### October 2016
 
 October 29, 2016: [**_The Old Cassette Player_**](https://prritam.com/2016/10/29/the-old-cassette-player/)
