@@ -40,6 +40,8 @@ October 21, 2017: [**_Moonlight Sonata & The Little Girl In Brigade Road_**](htt
 
 ### July 2017
 
+July 5, 2017: [**_The Syllabus_**](https://prritam.com/2017/07/05/the-syllabus/)
+
 July 2, 2017: [**_The Womanless Bar_**](https://prritam.com/2017/07/02/the-womanless-bar/)
 
 ### October 2016
