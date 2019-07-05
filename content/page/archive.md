@@ -50,6 +50,8 @@ October 29, 2016: [**_The Old Cassette Player_**](https://prritam.com/2016/10/29
 
 ### July 2016
 
+July 5, 2016: [**_They Don't Teach You Anything Worth Knowing_**](https://prritam.com/2016/07/05/they-don-t-teach-you-anything-worth-knowing/)
+
 July 4, 2016: [**_Enlightenment_**](https://prritam.com/2016/07/04/enlightenment/)
 
 ### April 2015
