@@ -24,12 +24,13 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/homecoming.md
+- content/post/madly-in-love.md
+- content/post/madhouse-and-the-angel-in-stilettos.md
 - content/post/poet.md
 - content/post/the-curious-case-of-social-networks.md
 - content/post/they-don-t-teach-you-anything-worth-knowing.md
 - content/post/the-syllabus.md
-- content/post/madly-in-love.md
-- content/post/madhouse-and-the-angel-in-stilettos.md
 - content/page/archive.md
 - content/post/a-nonsense-love-story.md
 - content/post/a-dream-to-remember.md
