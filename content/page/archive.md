@@ -34,6 +34,10 @@ February 2, 2018: [**_Insomnia_**](https://prritam.com/2018/02/02/insomnia/)
 
 December 3, 2017: [**_Homecoming_**](https://prritam.com/2017/12/03/homecoming/)
 
+### November 2017
+
+November 5, 2017: [**_Desire_**](https://prritam.com/2017/11/05/desire/)
+
 ### October 2017
 
 October 27, 2017: [**_Because We Are Selfish_**](https://prritam.com/2017/10/27/because-we-are-selfish/)
