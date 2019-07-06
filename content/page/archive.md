@@ -30,6 +30,10 @@ June 23, 2018: [**_Alexa, Who Is Your Master?_**](https://prritam.com/2018/06/23
 
 February 2, 2018: [**_Insomnia_**](https://prritam.com/2018/02/02/insomnia/)
 
+### December 2017
+
+December 3, 2017: [**_Homecoming_**](https://prritam.com/2017/12/03/homecoming/)
+
 ### October 2017
 
 October 27, 2017: [**_Because We Are Selfish_**](https://prritam.com/2017/10/27/because-we-are-selfish/)
