@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/desire.md
 - content/post/homecoming.md
 - content/post/madly-in-love.md
 - content/post/madhouse-and-the-angel-in-stilettos.md
