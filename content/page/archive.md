@@ -74,6 +74,10 @@ July 5, 2016: [**_They Don't Teach You Anything Worth Knowing_**](https://prrita
 
 July 4, 2016: [**_Enlightenment_**](https://prritam.com/2016/07/04/enlightenment/)
 
+### July 2015
+
+July 9, 2015: [**_A Tale Of Two Indians_**](https://prritam.com/2015/07/09/a-tale-of-two-indians/)
+
 ### April 2015
 
 April 16, 2015: [**_A Beautiful Woman_**](https://prritam.com/2015/04/16/a-beautiful-woman/)
