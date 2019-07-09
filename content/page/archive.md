@@ -78,6 +78,8 @@ July 4, 2016: [**_Enlightenment_**](https://prritam.com/2016/07/04/enlightenment
 
 July 9, 2015: [**_A Tale Of Two Indians_**](https://prritam.com/2015/07/09/a-tale-of-two-indians/)
 
+July 9, 2015: [**_It's All About Love_**](https://prritam.com/2015/07/09/it-s-all-about-feeling-good/)
+
 ### April 2015
 
 April 16, 2015: [**_A Beautiful Woman_**](https://prritam.com/2015/04/16/a-beautiful-woman/)
