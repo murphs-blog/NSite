@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/it-s-all-about-feeling-good.md
 - content/post/a-tale-of-two-indians.md
 - content/post/living-a-life-filled-with-the-excitement-of losing.md
 - content/post/desire.md
