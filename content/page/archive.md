@@ -8,6 +8,10 @@ template = "page"
 title = "Archive"
 
 +++
+### July 2019
+
+July 8, 2019: [**_Living A Life Filled With The Excitement Of Losing_**](https://prritam.com/2019/07/08/living-a-life-filled-with-the-excitement-of-losing/)
+
 ### June 2019
 
 June 27, 2019: [**_An Unexpected Turn_**](https://prritam.com/2019/06/27/an-unexpected-turn/)
